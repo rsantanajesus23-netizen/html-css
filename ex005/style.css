@@ -1,0 +1,10 @@
+imagens{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+imagens img{
+    width: 150px;
+}
